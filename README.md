@@ -5,6 +5,10 @@
 
 I'm 20 years old. I have been programming for 2 years on C#. I have development experience in backend, API, desktop, regional hackathon solutions and more. I study at Volsu university. I have a lot of experience working in a team on different projects.
 
+I am looking for a company.
+
+How to reach me : vadimoclock@gmail.com
+
 ## :briefcase: **My projects**
 
 + [wpf-ayva-audio](https://github.com/VadimOcLock/Wpf-AyvaAudio) desktop application for working with audio files. 
