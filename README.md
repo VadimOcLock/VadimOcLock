@@ -14,7 +14,7 @@ How to reach me : vadimoclock@gmail.com
 + [wpf-ayva-audio](https://github.com/VadimOcLock/Wpf-AyvaAudio) desktop application for working with audio files. 
   ![](https://img.shields.io/badge/WPF-054185?style=flat-square) ![](https://img.shields.io/badge/MVVM-000000?style=flat-square)
 
-+ [ipsum-mvc](https://github.com/VadimOcLock/IpsumMvc) single page web application. ![](https://img.shields.io/badge/.NET-512BD4?style=flat-square) ![](https://img.shields.io/badge/MVC-000000?style=flat-square)
++ [ipsum-dev-mvc](https://github.com/VadimOcLock/IpsumDevMvc) single page web application. ![](https://img.shields.io/badge/.NET-512BD4?style=flat-square) ![](https://img.shields.io/badge/MVC-000000?style=flat-square)
   
 + [hackathon-client](https://github.com/VadimOcLock/HackathonClient) desktop application designed for the physics lab. Work with scientific sessions on the study of ions, automatic generation of PDFs based on test results.  ![](https://img.shields.io/badge/WPF-054185?style=flat-square) ![](https://img.shields.io/badge/MVVM-000000?style=flat-square)
   
